@@ -8,7 +8,6 @@ void Swap(int* a, int* b)
 	*a = *b;
 	*b = temp;
 }
-
 //´òÓ¡Êý×é
 void PrintArray(int* a, int n)
 {
