@@ -3,6 +3,7 @@
 
 int main()
 {
+
 	Stack s;
 	StackInit(&s);
 	StackPush(&s, 1);
