@@ -25,6 +25,5 @@ int main()
 	printf("\n");
 	DCListPrint(L);
 	DCListDestroy(L);
-
 	return 0;
 }
