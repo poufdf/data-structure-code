@@ -25,7 +25,6 @@ void SqListDestroy(SqList* ps)
 	{
 		free(ps->arr);
 		ps->arr = NULL;
-
 	}
 	ps->size = 0;
 	ps->capacity = 0;
