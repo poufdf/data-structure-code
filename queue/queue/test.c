@@ -3,6 +3,7 @@
 
 int main()
 {
+
 	LinkQueue q;
 	QueueInit(&q);
 	EnQueue(&q, 1);
