@@ -3,7 +3,6 @@
 
 BTnode* Creatnode()
 {
-
 	BTnode* nodea = Buynode('A');
 	BTnode* nodeb = Buynode('B');
 	BTnode* nodec = Buynode('C');
