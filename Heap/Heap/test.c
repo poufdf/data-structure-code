@@ -12,7 +12,6 @@ void HeapTest1()
 	scanf("%d", &k);
 	while (!HeapEmpty(&hp) && k--)
 	{
-
 		printf("%d ", HeapTop(&hp));
 		HeapPop(&hp);
 	}
