@@ -4,7 +4,6 @@
 //创建新结点
 BTnode* Buynode(char data)
 {
-
 	BTnode* newnode = (BTnode*)malloc(sizeof(BTnode));
 	if (newnode == NULL)
 	{
